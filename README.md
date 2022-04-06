@@ -1,6 +1,5 @@
-# Project 3
+# GeoWebb Application 1
 
-ENGO 551 - Adv. Topics on Geospatial Technologies
 
 # Report
 In this project folder, you can view a website where a user can enter a date range and view all the building permits that were filed in the City of Calgary.
@@ -8,8 +7,8 @@ In this project folder, you can view a website where a user can enter a date ran
 This project utilized HTML, CSS and JS. This project also utilized Leaflet.js and GeoJSON in order to produce a map.
 
 This project contains the following files:
-    1. ENGO551_Lab2.html - This file is the source code for the homepage. Some of my code were inspired from a YouTube video where I learned the basics and some common functionalities while coding with "leaflet.js" [1]. 
-    2. style.css - This file contains the css properties which are present within "ENGO551_Lab2.html"
+    1. Geowebb Application 1.html - This file is the source code for the homepage. Some of my code were inspired from a YouTube video where I learned the basics and some common functionalities while coding with "leaflet.js" [1]. 
+    2. style.css - This file contains the css properties which are present within "Geowebb Application 1.html"
 
 # YouTube Video
 https://youtu.be/JUNSGuypF-U
